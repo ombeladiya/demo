@@ -8,7 +8,7 @@ function om() {
                     <li>Home</li>
                     <li>About</li>
                     <li>Conatct</li>
-                    <li>Login</li>
+                    <button name='login' onClick={() => alert('hello')}>Login</button>
                 </ul>
             </div>
         </>
